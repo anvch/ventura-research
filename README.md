@@ -20,7 +20,7 @@ NOTE: after using this UV script, need to rescale with the rescale script (the o
 The goal we had was to improve the simplification method of our current process such that the edges do not appear jagged.
 
 ![image](https://github.com/user-attachments/assets/335f7e38-c6c7-4464-aa66-6b68ac7d99d7)
-So, we looked into the simplification process we are currently using with meshoptimizer.
+   So, we looked into the simplification process we are currently using with meshoptimizer.
 
 https://github.com/zeux/meshoptimizer
 
