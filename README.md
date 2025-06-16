@@ -8,7 +8,10 @@ Our current rendition has some edges stretched out more than we would like - it 
 
 We tested the methods we used using the code in 'intersection tests' - specifically the layer intersection tests visualizes a layer of a glb and the result of running contains on the new geometry created with Delaunay.
 
-In the .glb folder there are example .glbs made with the original UV script, and the ones ending with '...contains.glb' are made using the modified uv script.
+This drive contains the results
+https://cpslo-my.sharepoint.com/:f:/g/personal/achen313_calpoly_edu/ErzrAYXii0hJpUhwpvl-N5cBh2TgLvArip8JV5k9xY-JGg?e=ggjYDj
+
+There are example .glbs made with the original UV script, and the ones ending with '...contains.glb' are made using the modified uv script.
 
 NOTE: after using this UV script, need to rescale with the rescale script (the ones in the glb folder have not been rescaled).
 
